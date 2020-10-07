@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d7ca26d-1c4a-4ba1-a6a5-ffa77d2a0143" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/prueba.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/uso_coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/uso_coche.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../PracticeJava\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VA7roByJlc43TukJSzAA9qt8Ht" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Manipula_Cadenas">
+    <configuration name="Arraysll" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jdk-13.0.1" />
+      <option name="MAIN_CLASS_NAME" value="Arraysll" />
+      <module name="PracticeJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Declaraciones_operadores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Declaraciones_operadores" />
+      <module name="PracticeJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FistClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FistClass" />
+      <module name="PracticeJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Manipula_Cadenas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Manipula_Cadenas" />
+      <module name="PracticeJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variables" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variables" />
+      <module name="PracticeJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="acceso_aplicacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="acceso_aplicacion" />
+      <module name="PracticeJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uso_coche" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poo.uso_coche" />
+      <module name="PracticeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="poo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Arraysll" />
+      <item itemvalue="Application.Variables" />
+      <item itemvalue="Application.Declaraciones_operadores" />
+      <item itemvalue="Application.uso_coche" />
+      <item itemvalue="Application.acceso_aplicacion" />
+      <item itemvalue="Application.FistClass" />
+      <item itemvalue="Application.Manipula_Cadenas" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Manipula_Cadenas" />
+        <item itemvalue="Application.FistClass" />
+        <item itemvalue="Application.acceso_aplicacion" />
+        <item itemvalue="Application.uso_coche" />
+        <item itemvalue="Application.Declaraciones_operadores" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d7ca26d-1c4a-4ba1-a6a5-ffa77d2a0143" name="Default Changelist" comment="" />
+      <created>1576684246467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576684246467</updated>
+      <workItem from="1576684247829" duration="10515000" />
+      <workItem from="1578055940643" duration="3470000" />
+      <workItem from="1578070148224" duration="11009000" />
+      <workItem from="1578266509782" duration="12947000" />
+      <workItem from="1579811463985" duration="610000" />
+      <workItem from="1579892260446" duration="601000" />
+      <workItem from="1580326215779" duration="627000" />
+      <workItem from="1580393042644" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="7" key="#Adivina_numero" timestamp="1580561530172">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="7" key="#Adivina_numero/0.0.1366.728@0.0.1366.728" timestamp="1580561530172" />
+    <state x="400" y="7" key="#Arrays_(1)" timestamp="1580561451343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="7" key="#Arrays_(1)/0.0.1366.728@0.0.1366.728" timestamp="1580561451343" />
+    <state x="275" y="2" width="816" height="726" key="#Intentions" timestamp="1578097287146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="2" width="816" height="726" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1578097287146" />
+    <state x="275" y="23" key="#Project_Structure" timestamp="1580561548880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580561548880" />
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580561970701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580561970701" />
+    <state x="436" y="173" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576766879320">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="436" y="173" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1576766879320" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577370742475">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1577370742475" />
+    <state x="463" y="108" key="FileChooserDialogImpl" timestamp="1580568569634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580568569634" />
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom" timestamp="1584108648709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580993398723" />
+    <state width="1306" height="134" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1578340190542" />
+    <state width="1323" height="160" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584108648709" />
+    <state width="1323" height="160" key="GridCell.Tab.0.center" timestamp="1584108648708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="160" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580993398723" />
+    <state width="1306" height="134" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1578340190541" />
+    <state width="1323" height="160" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584108648708" />
+    <state width="1323" height="160" key="GridCell.Tab.0.left" timestamp="1584108648708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="160" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580993398723" />
+    <state width="1306" height="134" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1578340190541" />
+    <state width="1323" height="160" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584108648708" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right" timestamp="1584108648708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="160" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580993398723" />
+    <state width="1306" height="134" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1578340190541" />
+    <state width="1323" height="160" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584108648708" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1584452823058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580393042626" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584452823058" />
+    <state x="194" y="105" width="1003" height="716" key="dock-window-1" timestamp="1578515232502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="194" y="105" width="1003" height="716" key="dock-window-1/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1578515232502" />
+    <state x="65" y="0" key="new project wizard" timestamp="1580568571888">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1578515311579" />
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580568571888" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1578078271251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1578078271251" />
+    <state x="301" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580565799127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="301" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1578401905304" />
+    <state x="301" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580565799127" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PracticeJava$Entrada_ejemplo1.ic" NAME="Entrada_ejemplo1 Coverage Results" MODIFIED="1580561707524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/PracticeJava$FistClass.ic" NAME="FistClass Coverage Results" MODIFIED="1577370703214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
